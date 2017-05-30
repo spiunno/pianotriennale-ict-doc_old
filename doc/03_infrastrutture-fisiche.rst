@@ -1,7 +1,7 @@
 Infrastrutture fisiche 
 =======================
 
-Le Infrastrutture fisiche nazionali sono, principalmente, gli *asset*
+Le Infrastrutture fisiche nazionali sono gli *asset*
 hardware necessari per la realizzazione del Piano: le reti di
 comunicazione, i *data center*, il *cloud* della PA, i sistemi di
 *disaster recovery* e di *business continuity*, gli apparati per il
